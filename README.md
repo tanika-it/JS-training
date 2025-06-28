@@ -1,1 +1,1 @@
-# JS-training
+JavaScript training exercises
